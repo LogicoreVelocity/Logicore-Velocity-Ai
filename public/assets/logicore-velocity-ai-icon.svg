@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Logicore Velocity AI icon">
+  <rect width="512" height="512" rx="112" fill="#0B2A4A"/>
+  <g transform="translate(73 55)">
+    <rect x="0" y="116" width="130" height="34" rx="17" fill="#FFFFFF" opacity=".95"/>
+    <rect x="30" y="178" width="100" height="34" rx="17" fill="#FFFFFF" opacity=".88"/>
+    <rect x="62" y="240" width="72" height="34" rx="17" fill="#FFFFFF" opacity=".82"/>
+    <path fill="#C8963C" d="M235 0c-82 0-148 66-148 148 0 106 148 236 148 236s148-130 148-236C383 66 317 0 235 0z"/>
+    <circle cx="235" cy="148" r="58" fill="#FFFFFF"/>
+    <path fill="#0B2A4A" d="M116 104h95v46h-95z"/>
+    <path fill="#0B2A4A" d="M99 168h108v46H99z"/>
+    <path fill="#FFFFFF" d="M214 220l-85-106h51l57 68 59-108h51L240 263z" opacity=".96"/>
+  </g>
+</svg>

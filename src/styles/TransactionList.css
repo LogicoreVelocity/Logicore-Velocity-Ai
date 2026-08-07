@@ -1,0 +1,10 @@
+.empty-state { padding: 24px; text-align: center; color: #6b7280; border: 1px dashed #d1d5db; border-radius: 12px; }
+.transaction-list { display: grid; gap: 12px; }
+.transaction-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 14px; display: grid; gap: 10px; }
+.card-header { display: flex; justify-content: space-between; gap: 12px; align-items: center; }
+.card-header h3 { margin: 0; font-size: 15px; }
+.amount { font-weight: 800; }
+.card-body p { margin: 0 0 4px; }
+.description { color: #4b5563; }
+.card-body small { color: #6b7280; }
+.delete-button { justify-self: start; background: #fee2e2; color: #991b1b; }

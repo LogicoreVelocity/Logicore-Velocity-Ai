@@ -1,0 +1,12 @@
+.excel-manager { display: grid; gap: 14px; }
+.excel-section { background: white; border-radius: 14px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.excel-section h3 { margin-top: 0; }
+.action-button { margin: 4px 8px 4px 0; }
+.action-button.secondary { background: #e5e7eb; color: #111827; }
+.status { margin-top: 10px; padding: 10px; border-radius: 8px; }
+.status.success { background: #ecfdf5; color: #065f46; }
+.status.error { background: #fef2f2; color: #991b1b; }
+.errors { color: #991b1b; margin-top: 8px; }
+.help-text { margin-top: 10px; color: #64748b; font-size: 0.9rem; }
+.template-link { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; margin-left: 8px; background: #0B2A4A; color: #FFFFFF; border-radius: 8px; padding: 10px 14px; font-weight: 800; }
+@media (max-width: 700px) { .template-link { margin: 8px 0 0; width: 100%; } }
